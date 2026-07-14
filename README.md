@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1929-concatenation-of-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
+| [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
