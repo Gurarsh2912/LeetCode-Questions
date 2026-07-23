@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1260-shift-2d-grid](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1470-shuffle-the-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
