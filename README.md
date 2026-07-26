@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1260-shift-2d-grid](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Trie
 |  |
