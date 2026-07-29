@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0485-max-consecutive-ones](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
