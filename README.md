@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0485-max-consecutive-ones](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
