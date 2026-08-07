@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0841-keys-and-rooms) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3310-remove-methods-from-project](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Math
 |  |
 | ------- |
