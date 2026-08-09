@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0841-keys-and-rooms) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
