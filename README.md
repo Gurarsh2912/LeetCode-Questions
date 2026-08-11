@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1260-shift-2d-grid](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
