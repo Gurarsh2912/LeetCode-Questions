@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
