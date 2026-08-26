@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0326-power-of-three) |
+| [0738-monotone-increasing-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0738-monotone-increasing-digits) |
 | [0877-stone-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0738-monotone-increasing-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0948-bag-of-tokens) |
