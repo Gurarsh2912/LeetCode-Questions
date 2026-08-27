@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Trie
 |  |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0948-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1899-merge-triplets-to-form-target-triplet) |
