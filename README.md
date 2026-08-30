@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
