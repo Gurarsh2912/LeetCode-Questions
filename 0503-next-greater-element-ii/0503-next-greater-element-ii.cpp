@@ -9,7 +9,7 @@ public:
                 ans[s.top()] = nums[i%n];
                 s.pop();
             }
-            if(i<n) s.push(i%n);
+            s.push(i%n);
         }
         return ans;
     }
