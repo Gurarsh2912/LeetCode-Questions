@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -422,8 +424,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
