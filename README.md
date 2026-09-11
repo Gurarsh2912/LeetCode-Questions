@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0739-daily-temperatures) |
