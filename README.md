@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0763-partition-labels) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1529-minimum-suffix-flips](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1529-minimum-suffix-flips) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0948-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1529-minimum-suffix-flips](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1529-minimum-suffix-flips) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
