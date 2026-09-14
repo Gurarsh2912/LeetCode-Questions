@@ -1,41 +1,39 @@
 class Solution {
 public:
     int sumSubarrayMins(vector<int>& arr) {
+        stack<int> st;
         int n = arr.size();
-        int MOD = 1e9 + 7;
         vector<int> left(n);
         vector<int> right(n);
-        stack<int> st;
+        int MOD = 1e9 + 7;
 
-        for(int i= 0; i<n; i++){
+        for(int i=0; i<n; i++){
             while(!st.empty() && arr[st.top()]>=arr[i]){
                 st.pop();
             }
-            if(st.empty()) left[i] = -1;
-            else left[i] = st.top();
+            left[i] = st.empty() ? -1 : st.top();
 
             st.push(i);
         }
 
         while(!st.empty()) st.pop();
 
-        for(int i=n-1; i>=0; i--){
+        for(int i = n-1; i>=0; i--){
             while(!st.empty() && arr[st.top()]>arr[i]){
                 st.pop();
             }
-            if(st.empty()) right[i] = n;
-            else right[i] = st.top();
-
+            right[i] = st.empty() ? n : st.top();
             st.push(i);
         }
 
         long long ans = 0;
-        for(int i = 0; i<n; i++){
-            long long contri = 1LL * arr[i] * (right[i]-i) * (i-left[i]);
 
+        for(int i = 0; i<n; i++){
+            long long contri = 1LL * arr[i] * (i-left[i]) * (right[i]-i);
             ans = (ans+contri) % MOD;
         }
 
-        return (int)ans;
+        return (int) ans;
+
     }
 };
