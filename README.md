@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0394-decode-string) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0738-monotone-increasing-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0738-monotone-increasing-digits) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0394-decode-string) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0402-remove-k-digits) |
