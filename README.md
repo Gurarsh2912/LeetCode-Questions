@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0735-asteroid-collision) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0622-design-circular-queue](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0086-partition-list) |
+| [0622-design-circular-queue](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 ## Game Theory
 |  |
 | ------- |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
