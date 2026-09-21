@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Sorting
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
