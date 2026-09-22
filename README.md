@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1696-jump-game-vi](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1696-jump-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1696-jump-game-vi](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1696-jump-game-vi) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Trie
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1696-jump-game-vi](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1696-jump-game-vi) |
 ## Data Stream
 |  |
 | ------- |
@@ -512,11 +515,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1696-jump-game-vi](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1696-jump-game-vi](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1696-jump-game-vi) |
 ## Ordered Set
 |  |
 | ------- |
