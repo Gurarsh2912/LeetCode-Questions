@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0853-car-fleet) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -209,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3903-smallest-stable-index-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1696-jump-game-vi](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1696-jump-game-vi) |
@@ -513,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0649-dota2-senate) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1696-jump-game-vi) |
@@ -520,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1696-jump-game-vi) |
 ## Ordered Set
