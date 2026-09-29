@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hungarian Algorithm
