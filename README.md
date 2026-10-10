@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0207-course-schedule) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
