@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -521,10 +523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -592,11 +596,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -617,4 +623,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
