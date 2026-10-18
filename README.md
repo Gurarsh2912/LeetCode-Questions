@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1260-shift-2d-grid](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0738-monotone-increasing-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0738-monotone-increasing-digits) |
 | [0877-stone-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
