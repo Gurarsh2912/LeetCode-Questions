@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0763-partition-labels) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0948-bag-of-tokens) |
