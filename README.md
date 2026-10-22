@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0169-majority-element) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0169-majority-element) |
