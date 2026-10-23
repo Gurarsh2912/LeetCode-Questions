@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1392-longest-happy-prefix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1529-minimum-suffix-flips](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1529-minimum-suffix-flips) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -666,4 +667,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
