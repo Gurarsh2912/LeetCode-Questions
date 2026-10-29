@@ -2,21 +2,19 @@ class Solution {
 public:
     int repeatedStringMatch(string a, string b) {
         string ans = "";
-        int count = 0; 
+        int cnt = 0;
         while(ans.size() < b.size()){
             ans+=a;
-            count++;
+            cnt++;
         }
-        if(ans.find(b)!=string::npos){
-            return count;
+        if(ans.find(b)!= string::npos){
+            return cnt;
         }
-
-        ans+=a; count++;
-
-        if(ans.find(b) != string::npos){
-            return count;
+        ans+=a;
+        cnt++;
+        if(ans.find(b)!= string::npos){
+            return cnt;
         }
-
         return -1;
     }
 };
