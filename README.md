@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0738-monotone-increasing-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0738-monotone-increasing-digits) |
 | [0877-stone-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
