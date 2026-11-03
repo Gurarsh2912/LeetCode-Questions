@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3903-smallest-stable-index-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/4061-minimum-queen-moves-to-reach-target) |
