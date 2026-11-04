@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0561-array-partition) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
