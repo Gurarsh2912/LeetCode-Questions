@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0376-wiggle-subsequence) |
 | [0406-queue-reconstruction-by-height](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0406-queue-reconstruction-by-height) |
+| [0410-split-array-largest-sum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0542-01-matrix) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
