@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0948-bag-of-tokens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0948-bag-of-tokens) |
+| [0976-largest-perimeter-triangle](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1260-shift-2d-grid](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0948-bag-of-tokens) |
+| [0976-largest-perimeter-triangle](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0738-monotone-increasing-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0738-monotone-increasing-digits) |
 | [0877-stone-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0948-bag-of-tokens) |
+| [0976-largest-perimeter-triangle](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -715,4 +720,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0686-repeated-string-match) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
