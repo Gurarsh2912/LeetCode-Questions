@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0322-coin-change) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
