@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0048-rotate-image) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
