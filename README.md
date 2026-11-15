@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0841-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
