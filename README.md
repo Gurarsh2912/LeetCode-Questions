@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -750,4 +752,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0278-first-bad-version) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
