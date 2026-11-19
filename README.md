@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0853-car-fleet](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0912-sort-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1696-jump-game-vi](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/1696-jump-game-vi) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -689,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -713,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Treap
 |  |
 | ------- |
@@ -765,4 +771,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
