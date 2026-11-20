@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0204-count-primes) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0326-power-of-three) |
