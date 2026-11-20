@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0338-counting-bits) |
