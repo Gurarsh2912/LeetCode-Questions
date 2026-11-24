@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0409-longest-palindrome) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 ## Game Theory
