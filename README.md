@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0069-sqrtx) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0231-power-of-two) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0138-copy-list-with-random-pointer) |
