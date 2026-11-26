@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0948-bag-of-tokens) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Design
 |  |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/0622-design-circular-queue) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gurarsh2912/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Game Theory
 |  |
 | ------- |
